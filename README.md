@@ -32,7 +32,7 @@ model_new = Model(inp, out)
 
 Congelam-se os pesos de todas as camadas, exceto o da última, que continuará livre para o treinamento com nosso limitado conjunto de images (2 categorias, que totalizam apenas 100 imagens).
 
-
+```py
 # make all layers untrainable by freezing weights (except for last layer)
 for l, layer in enumerate(model_new.layers[:-1]):
     layer.trainable = False
