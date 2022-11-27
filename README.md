@@ -51,21 +51,14 @@ model_new.summary()
 
 
 2ª Parte: treinamento do novo modelo com 2 conjuntos/categorias de imagens: Brontossauros e Stegossaurus. Mesmo com poucas imagens e apenas 10 epochs (devido a limitações de tempo), a acurácia do novo modelo foi de:
-
-
-IMAGENS dinossauros
-
-
-
-IMAGEM acurácia
+![image](https://user-images.githubusercontent.com/93783315/204116042-5839b419-4cd8-4945-a281-6017d835031e.png)
 
 
 
 
 
-Exemplo imagens
 
-![image](https://)
+
 
 
 
