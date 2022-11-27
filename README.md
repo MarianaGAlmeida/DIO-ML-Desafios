@@ -60,10 +60,3 @@ model_new.summary()
 
 
 
-
-
-
-![image](https://)
-
-
-
